@@ -25,4 +25,5 @@ I'm eager to collaborate on **outsourcing projects** where I can apply my analyt
 
 ## Connect with Me  
 📄 [Resume](https://docs.google.com/document/d/1y1haRyz9eTP5tFWBRa6zGB8DDJfzt8n9mDSgD80HKc8/edit?usp=drive_link)  
-💼 [LinkedIn](https://www.linkedin.com/in/vanessa-hall-66a0a529b/) 
+💼 [LinkedIn](https://www.linkedin.com/in/vanessa-hall-66a0a529b/)     
+🔗 [Profile](https://github.com/VanessaBIACertified)
