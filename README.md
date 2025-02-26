@@ -7,8 +7,12 @@ I'm a **Business Intelligence Analyst (BIA) in training** with a background in *
 
 ## Fun Facts About Me  
 - 📍 Currently in Maryland but **open to relocating to Florida**!  
-- 🍵 I’m a coffee lover who once worked at Starbucks—so I can analyze data and make a mean latte!  
-- ✈️ When I’m not working, I love traveling and exploring new places.  
+- 🍵 I’m a coffee lover who once worked at Starbucks—so I can analyze data and make a mean latte!
+- 🤓 I'm currently enrolled at Harvard to deepen my SQL expertise. 
+- ✈️ When I’m not working, I love traveling and exploring new places.
+- ✨ I love being versatile and continuously learning—right now, I’m learning Spanish!
+- 🎯 My goal for 2025 is to land my dream job as a Data Analyst and drive off in a pink 2025 Mercedes CLE 300 4MATIC Coupe!
+  
 
 ## Open to Opportunities  
 I'm eager to collaborate on **outsourcing projects** where I can apply my analytical skills to solve real-world business challenges. Whether it's data visualization, reporting, or process optimization, I'm ready to contribute!  
